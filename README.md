@@ -2,6 +2,7 @@
 
 # My Projects
 
+
 #### HR Analytics Project
 https://github.com/Pratyuash/ms-fabric-project
 
@@ -23,6 +24,7 @@ https://github.com/Pratyuash/power_BI_projects
 
 Short Description:
 Built an interactive Power BI dashboard using the AdventureWorks dataset to track key KPIs, analyze sales and customer trends, and enable data-driven decision-making through dynamic visualizations and what-if analysis.
+
 
 
 #### YouTube API ELT Project (In Progress):
