@@ -3,7 +3,7 @@
 # My Projects
 
 
-#### HR Analytics Project
+### HR Analytics Project
 https://github.com/Pratyuash/ms-fabric-project
 
 Short Description: 
@@ -11,7 +11,7 @@ Built an end-to-end Employee Retention & Workforce Insights dashboard using MS F
 
 
 
-#### On-Prem to ADLS Data Migration Project
+### On-Prem to ADLS Data Migration Project
 https://github.com/Pratyuash/Azure_Data_Engineering
 
 Short Description:
@@ -19,7 +19,7 @@ Designed and implemented an end-to-end data migration pipeline from on-prem SQL 
 
 
 
-#### Sales Executive Dashboard
+### Sales Executive Dashboard
 https://github.com/Pratyuash/power_BI_projects
 
 Short Description:
@@ -27,13 +27,14 @@ Built an interactive Power BI dashboard using the AdventureWorks dataset to trac
 
 
 
-#### YouTube API ELT Project (In Progress):
+### YouTube API ELT Project (In Progress):
 https://github.com/Pratyuash/google-de-yt
 Short Description:
 Extracted and analyzed YouTube video statistics for MrBeast using the YouTube API by programmatically retrieving playlist and video data to derive key engagement metrics.
 
 
-#### Online Banking Platfor- Business Analysis:
+
+### Online Banking Platfor- Business Analysis:
 https://github.com/Pratyuash/BA_project
 Short Description:
 A secure, 24/7 online banking platform that empowers customers to manage accounts, view transactions, pay bills, transfer funds, and handle check services anytime, reducing call center load and improving overall customer experience while lowering operational costs.
