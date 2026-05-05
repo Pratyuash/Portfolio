@@ -33,3 +33,7 @@ Short Description:
 Extracted and analyzed YouTube video statistics for MrBeast using the YouTube API by programmatically retrieving playlist and video data to derive key engagement metrics.
 
 
+#### Online Banking Platfor- Business Analysis:
+https://github.com/Pratyuash/BA_project
+Short Description:
+A secure, 24/7 online banking platform that empowers customers to manage accounts, view transactions, pay bills, transfer funds, and handle check services anytime, reducing call center load and improving overall customer experience while lowering operational costs.
